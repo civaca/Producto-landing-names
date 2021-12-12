@@ -87,7 +87,6 @@ main{
     max-width: 50%;
 }
 #nav-bar{
-    background-color: ;
     grid-area: nv;
     display: flex;
     flex-direction: row;
